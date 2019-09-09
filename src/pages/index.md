@@ -2,49 +2,29 @@
 templateKey: index-page
 title: Kylpylä.info
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Suomen ja ulkomaiden kylpylät
+subheading: Varaa kylpyläloma täältä
 mainpitch:
-  title: Why Kaldi
+  title: Miksi kylpylään
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+Miksi lähtisit kylpylälomalle? Uusi ympäristö auttaa irtautumaan arjesta. Pääset eroon kotirutiineista. Ei tarvitse siivota, tiskata tai laittaa ruokaa. Kylpylän henkilökunta pitää näistä asioista huolen lomasi aikana. Mitä sitten tekisit kaikella vapaa-ajalla? Suosituimpaa ajanvietettä on tietenkin uiminen ja porealtaissa rentoutuminen sekä saunominen. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+Kylpylöissä on usein perinteisen suomalaisen saunan lisäksi turkkilainen höyrysauna tai jopa savusauna. Saunan jälkeen on mukava pulahtaa uimaan tai porealtaaseen. Kylpyläkäynnin jälkeen voit siirtyä ruokailemaan kylpylän viihtyisään ravintolaan. 
+
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+Kylpyläloma on huippusuosittu tapa viettää lomaa kotimaassa. Lyhytkin loma kylpylähotellissa tarjoaa monipuolisia mahdollisuuksia rentoutumiseen. Tyypillinen kylpyläreissu kestää yleensä yhden viikonlopun verran. Viikolla puolestaan saattaa olla hyviä tilaisuuksia löytää edullisia tarjouksia, etenkin hieman syrjemmässä olevista kylpylöistä. Laadukkaita ja edullisia kylpylöitä löytyy ympäri Suomea. Seuraavassa esittelemme laajan valikoiman Suomen suosituimpia kylpylöitä. Tervetuloa mukaan! 
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+Kylpylässä käydessä kannattaa hyödyntää myös erilaisia mahdollisuuksia pieneen hemmotteluun. Hemmotteluhoidot kylpylöissä pitävät usein sisällään monipuolisia hoitoja kuten klassista hierontaa, vesihoitoja, turvehoitoja, kasvohoitoja, vyöhyketerapiaa ja intialaista päähierontaa. Usein tarjolla on näiden lisäksi erillisiä kauneudenhoitopalveluja.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+Kylpylän lämmin vesi on rentouttavaa. Yleensä vesi on lämmitetty ainakin 30 asteeseen. Siksi verenkierto lisääntyy iholla ja lihaksistossa. Asiaa auttaa myös porealtaat ja erilaiset hierovat vesipisteet. Vedessä liikkuessa aineenvaihdunta vilkastaa ja elimistöstä poistuu kuona-aineita. Tämä puolestaan kirkastaa ihoa.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+Kylpylä tarjoaa mahdollisuuden ottaa omaa aikaa parisuhteelle. Se voi myös tarjota yhteistä laatuaikaa perheelle ja uusia elämyksiä lapsille. Mahdollisuuksia erilaisiin kylpylälomiin on siis vaikka kuinka paljon. Nyt on aika siirtyä tuumasta toimeen. Siirry tutustumaan kylpylöihin ja varaa unelmalomasi vaikka heti! 
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
